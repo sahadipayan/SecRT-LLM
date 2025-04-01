@@ -1,0 +1,2 @@
+**evaluation**: "dead state present"
+**explanation**: The state "three" is considered a dead state because it has exactly zero incoming and zero outgoing transitions.

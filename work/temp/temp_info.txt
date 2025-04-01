@@ -1,0 +1,1 @@
+C:/Users/dipay/OneDrive/Documents/Python_Scripts/GitHub/SecRT-LLM/demo_designs/fsm_with_dead_state.v
