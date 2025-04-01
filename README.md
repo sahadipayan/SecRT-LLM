@@ -68,13 +68,13 @@ SecRT-LLM/
 └── README.md                 # Project documentation
 ```
 
-### Developed by
-Dipayan Saha (dsaha@ufl.edu), University of Florida
-Sujan Kumar Saha, University of Florida
-Mark Tehranipoor, University of Florida
-Farimah Farahmandi, University of Florida
+## Developed by
+- Dipayan Saha (dsaha@ufl.edu), University of Florida
+- Sujan Kumar Saha, University of Florida
+- Mark Tehranipoor, University of Florida
+- Farimah Farahmandi, University of Florida
 
-###  Citation
+##  Citation
 If you use this tool or any part of the framework in your research, please cite our HOST 2024 paper:
 
 ```bibtex
