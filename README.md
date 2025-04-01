@@ -1,7 +1,7 @@
 # SecRT-LLM
 Hardware Vulnerability Detection Framework Using Large Language Model
 
-SecRT-LLM is a GUI-based framework designed to detect hardware security vulnerabilities in Verilog designs using Large Language Models (LLMs). It allows users to upload their design files, select specific vulnerabilities, and use state-of-the-art LLMs like GPT-4 to analyze and report potential issues.
+SecRT-LLM is a framework designed to detect hardware security vulnerabilities in Verilog designs using Large Language Models (LLMs). It allows users to upload their design files, select specific vulnerabilities, and use state-of-the-art LLMs like GPT-4 to analyze and report potential issues.
 
 ---
 
@@ -69,8 +69,10 @@ SecRT-LLM/
 ```
 
 ### Developed by
-Dipayan Saha (dsaha@ufl.edu)
-University of Florida
+Dipayan Saha (dsaha@ufl.edu), University of Florida
+Sujan Kumar Saha, University of Florida
+Mark Tehranipoor, University of Florida
+Farimah Farahmandi, University of Florida
 
 ###  Citation
 If you use this tool or any part of the framework in your research, please cite our HOST 2024 paper:
